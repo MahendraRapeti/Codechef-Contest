@@ -1,0 +1,22 @@
+OUTPUTS:
+
+TEST CASE 1:
+saturday
+TEST CASE 2:
+friday
+TEST CASE 3:
+monday
+TEST CASE 4:
+sunday
+TEST CASE 5:
+monday
+TEST CASE 6:
+sunday
+TEST CASE 7:
+saturday
+TEST CASE 8:
+friday
+TEST CASE 9:
+thursday
+TEST CASE 10:
+wednesday

@@ -1,0 +1,31 @@
+Crack the Logic
+      
+ One day Harthik was given a problem by his teacher.
+ The problem is as follows:
+  Given a number N , print the number corresponding to input by observing following series
+
+  0 2 5 5 10 10 ...
+  Harthik took it as a challange but struggling a lot to find series help him carefully so that his teacher don't notice you!!
+
+  Input Format:
+  first line consists a number T denoting number of test cases,next T lines consists of a number N.
+
+  Output Format:
+  print the output corresponding to the input in series.
+
+  Constraints:
+  1<T<=100
+  1<=N<=5000
+
+  Sample Test Cases:
+
+  Input                              Output
+  5                                   0
+  1                                   5
+  4                                   17
+  9                                   41
+  13                                  4227
+  200
+
+
+  

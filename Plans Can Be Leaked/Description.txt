@@ -1,0 +1,23 @@
+Plans Can Be Leaked
+Mahendra and Nikhil are friends and they are very naughty boys. one day they went to library then they saw that all the books are arranged in alphabetical order.
+Then they planned to rearrage the books so that they are not in order and also decided that Mahendra will change even number of books from original order and 
+Nikhil change odd number of books from original order.
+But Sivaji listened this and leaked their plan to librarian.
+then librarian decided to punish only  the student who spoiled the order(Because innocent people should not be punished).
+so help librarian to find  who is that guy.
+
+Note:all the books are different and each book is represented with a character.
+
+Input Format:
+First line consists a integer T denoting number of test cases.
+Next line contains a string S in which each charcter denotes a book(The string may contain capital and small letters).
+
+Output Format:
+If the order was not changed then print "Sivaji" for giving wrong information.
+If Mahendra changed the order then print "Mahendra" otherwise print "Nikhil".
+
+Sample Test Cases:
+
+INPUT                                                    OUTPUT
+1
+Abcdhyxyz                                                 Mahendra

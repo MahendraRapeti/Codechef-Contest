@@ -1,0 +1,4 @@
+OUTPUT:
+
+TEST CASE 1:
+geeksforgeeks 1000000

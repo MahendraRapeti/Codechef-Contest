@@ -1,0 +1,44 @@
+Campus Chapter
+
+Mahendra is a student of Vignan Institute Of Information And Technology.One day in his college he got a chance to become codechef campus chapter lead for his campus.
+For that his profile should impress his teacher.So he decided to do solve as many problems as he can in different websites.But the problem is that time is very less to submit his profile.
+So he decided to solve problems in only one webiste so that in which he can solve N problems in less time as comapred to other websites.
+
+Help him to find the website.
+
+Input Format:
+First line consists of T testcases and next line contains a integer N denoting number of problems he want to solve.
+For each Line a string S denoting website and X denoting number of minutes that take to solve problems on that website.
+
+Output Format:
+Print the website name which takes less time and also print the minimum time that the website takes.
+
+Constraints:
+1=<T<=10
+4<=N<=5000
+
+Note:
+1.There are only 4 websites that he know for solving coding problems.
+(geeksforgeeks,codechef,hackerearth and hackerrank).
+2.After solving he can reopen the website for revision that is also counted for calculating time for clarification see sample test cases.
+
+Sample Test Cases:
+INPUT                                                                 Output
+2
+4                                                                   codechef 34
+geeksforgeeks 36
+codechef 34                                                         codechef 50
+hackerearth 48
+hackerrank 38
+7
+geeksforgeeks 64
+hackerearth 120
+hackerrank 64
+codechef 16
+codechef 8
+codechef 25
+codechef 1
+
+Explanation:
+For Test case 2,
+for codechef the total time required is  16+8+25+1=50 which is lesser than remaining websites.

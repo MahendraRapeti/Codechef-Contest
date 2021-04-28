@@ -1,0 +1,18 @@
+Find The Day
+ 
+Nagendra is a programmer.One day his grandfather asked him what is the day today then he replied "saturday".
+Then suddenly he thought that what if i write a program that gives us the day when we give the date as input.
+So help Nagendra to write his program.
+
+Input Format:
+A single string S denoting the date.
+It is in the format dd/mm/yyyy.
+
+Output Format:
+print the day.
+
+Sample test cases:
+
+INPUT                                          Output
+28/04/2021                                     wednesday  
+21/01/2002                                     monday                                  
